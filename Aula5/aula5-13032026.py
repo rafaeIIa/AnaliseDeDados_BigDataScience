@@ -170,6 +170,6 @@ nomes_dict={'nome1':'Matheus',
             'nome2': 'Alice',
             'nome3': 'Caio',
             'nome4': 'Larissa',
-            'nome5': 'Miuel',
+            'nome5': 'Miguel',
             'nome6': 'Rafael'}
 print(nomes_dict)
